@@ -1,0 +1,7 @@
+{
+  "sparky": { "voice": "ar-JO-TaimNeural", "rate": "+0%", "pitch": "+10Hz" },
+  "commentator": { "voice": "ar-SY-LaithNeural", "rate": "+12%", "pitch": "+4Hz" },
+  "narrator": { "voice": "ar-JO-SanaNeural", "rate": "-4%", "pitch": "+0Hz" },
+  "adam": { "voice": "ar-LB-RamiNeural", "rate": "+0%", "pitch": "+30Hz" },
+  "en": { "voice": "en-US-AnaNeural", "rate": "-5%", "pitch": "+0Hz", "slowRate": "-20%" }
+}

@@ -1,0 +1,7324 @@
+[
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Apple يعني تفاحة",
+  "slow": false,
+  "src": "learning:english.food.apple"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Apple يعني تفاحة",
+  "slow": false,
+  "src": "learning:english.food.apple"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Baby يعني بيبي",
+  "slow": false,
+  "src": "learning:english.family.baby"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Baby يعني بيبي",
+  "slow": false,
+  "src": "learning:english.family.baby"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Ball يعني طابة",
+  "slow": false,
+  "src": "learning:english.toys.ball"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Ball يعني طابة",
+  "slow": false,
+  "src": "learning:english.toys.ball"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Balloon يعني بالون",
+  "slow": false,
+  "src": "learning:english.toys.balloon"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Balloon يعني بالون",
+  "slow": false,
+  "src": "learning:english.toys.balloon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Banana يعني موزة",
+  "slow": false,
+  "src": "learning:english.food.banana"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Banana يعني موزة",
+  "slow": false,
+  "src": "learning:english.food.banana"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Bird يعني عصفور",
+  "slow": false,
+  "src": "learning:english.animals.bird"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Bird يعني عصفور",
+  "slow": false,
+  "src": "learning:english.animals.bird"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Black يعني أسود",
+  "slow": false,
+  "src": "learning:english.colors.black"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Black يعني أسود",
+  "slow": false,
+  "src": "learning:english.colors.black"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Blocks يعني مكعبات",
+  "slow": false,
+  "src": "learning:english.toys.blocks"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Blocks يعني مكعبات",
+  "slow": false,
+  "src": "learning:english.toys.blocks"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Blue يعني أزرق",
+  "slow": false,
+  "src": "learning:english.colors.blue"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Blue يعني أزرق",
+  "slow": false,
+  "src": "learning:english.colors.blue"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Boat يعني قارب",
+  "slow": false,
+  "src": "learning:english.vehicles.boat"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Boat يعني قارب",
+  "slow": false,
+  "src": "learning:english.vehicles.boat"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Bread يعني خبز",
+  "slow": false,
+  "src": "learning:english.food.bread"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Bread يعني خبز",
+  "slow": false,
+  "src": "learning:english.food.bread"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Brown يعني بني",
+  "slow": false,
+  "src": "learning:english.colors.brown"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Brown يعني بني",
+  "slow": false,
+  "src": "learning:english.colors.brown"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Bus يعني باص",
+  "slow": false,
+  "src": "learning:english.vehicles.bus"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Bus يعني باص",
+  "slow": false,
+  "src": "learning:english.vehicles.bus"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Cake يعني كعكة",
+  "slow": false,
+  "src": "learning:english.food.cake"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Cake يعني كعكة",
+  "slow": false,
+  "src": "learning:english.food.cake"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Car يعني سيارة",
+  "slow": false,
+  "src": "learning:english.vehicles.car"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Car يعني سيارة",
+  "slow": false,
+  "src": "learning:english.vehicles.car"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Cat يعني قطة",
+  "slow": false,
+  "src": "learning:english.animals.cat"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Cat يعني قطة",
+  "slow": false,
+  "src": "learning:english.animals.cat"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Clap يعني صفق",
+  "slow": false,
+  "src": "learning:english.actions.clap"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Clap يعني صفق",
+  "slow": false,
+  "src": "learning:english.actions.clap"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Cow يعني بقرة",
+  "slow": false,
+  "src": "learning:english.animals.cow"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Cow يعني بقرة",
+  "slow": false,
+  "src": "learning:english.animals.cow"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Dad يعني بابا",
+  "slow": false,
+  "src": "learning:english.family.dad"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Dad يعني بابا",
+  "slow": false,
+  "src": "learning:english.family.dad"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Dog يعني كلب",
+  "slow": false,
+  "src": "learning:english.animals.dog"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Dog يعني كلب",
+  "slow": false,
+  "src": "learning:english.animals.dog"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Duck يعني بطة",
+  "slow": false,
+  "src": "learning:english.animals.duck"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Duck يعني بطة",
+  "slow": false,
+  "src": "learning:english.animals.duck"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Ear يعني أذن",
+  "slow": false,
+  "src": "learning:english.body.ear"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Ear يعني أذن",
+  "slow": false,
+  "src": "learning:english.body.ear"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Egg يعني بيضة",
+  "slow": false,
+  "src": "learning:english.food.egg"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Egg يعني بيضة",
+  "slow": false,
+  "src": "learning:english.food.egg"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Elephant يعني فيل",
+  "slow": false,
+  "src": "learning:english.animals.elephant"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Elephant يعني فيل",
+  "slow": false,
+  "src": "learning:english.animals.elephant"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Eye يعني عين",
+  "slow": false,
+  "src": "learning:english.body.eye"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Eye يعني عين",
+  "slow": false,
+  "src": "learning:english.body.eye"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Fish يعني سمكة",
+  "slow": false,
+  "src": "learning:english.animals.fish"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Fish يعني سمكة",
+  "slow": false,
+  "src": "learning:english.animals.fish"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Foot يعني رجل",
+  "slow": false,
+  "src": "learning:english.body.foot"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Foot يعني رجل",
+  "slow": false,
+  "src": "learning:english.body.foot"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Grandma يعني تيتا",
+  "slow": false,
+  "src": "learning:english.family.grandma"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Grandma يعني تيتا",
+  "slow": false,
+  "src": "learning:english.family.grandma"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Green يعني أخضر",
+  "slow": false,
+  "src": "learning:english.colors.green"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Green يعني أخضر",
+  "slow": false,
+  "src": "learning:english.colors.green"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Hand يعني إيد",
+  "slow": false,
+  "src": "learning:english.body.hand"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Hand يعني إيد",
+  "slow": false,
+  "src": "learning:english.body.hand"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Jump يعني نط",
+  "slow": false,
+  "src": "learning:english.actions.jump"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Jump يعني نط",
+  "slow": false,
+  "src": "learning:english.actions.jump"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Kick يعني اشلط",
+  "slow": false,
+  "src": "learning:english.actions.kick"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Kick يعني اشلط",
+  "slow": false,
+  "src": "learning:english.actions.kick"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Kite يعني طيارة ورق",
+  "slow": false,
+  "src": "learning:english.toys.kite"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Kite يعني طيارة ورق",
+  "slow": false,
+  "src": "learning:english.toys.kite"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Lion يعني أسد",
+  "slow": false,
+  "src": "learning:english.animals.lion"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Lion يعني أسد",
+  "slow": false,
+  "src": "learning:english.animals.lion"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Milk يعني حليب",
+  "slow": false,
+  "src": "learning:english.food.milk"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Milk يعني حليب",
+  "slow": false,
+  "src": "learning:english.food.milk"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Mom يعني ماما",
+  "slow": false,
+  "src": "learning:english.family.mom"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Mom يعني ماما",
+  "slow": false,
+  "src": "learning:english.family.mom"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Moon يعني قمر",
+  "slow": false,
+  "src": "learning:english.objects.moon"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Moon يعني قمر",
+  "slow": false,
+  "src": "learning:english.objects.moon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Mouth يعني تم",
+  "slow": false,
+  "src": "learning:english.body.mouth"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Mouth يعني تم",
+  "slow": false,
+  "src": "learning:english.body.mouth"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Nose يعني أنف",
+  "slow": false,
+  "src": "learning:english.body.nose"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Nose يعني أنف",
+  "slow": false,
+  "src": "learning:english.body.nose"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Orange يعني برتقالي",
+  "slow": false,
+  "src": "learning:english.colors.orange"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Orange يعني برتقالي",
+  "slow": false,
+  "src": "learning:english.colors.orange"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Pink يعني زهري",
+  "slow": false,
+  "src": "learning:english.colors.pink"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Pink يعني زهري",
+  "slow": false,
+  "src": "learning:english.colors.pink"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Plane يعني طيارة",
+  "slow": false,
+  "src": "learning:english.vehicles.plane"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Plane يعني طيارة",
+  "slow": false,
+  "src": "learning:english.vehicles.plane"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Purple يعني بنفسجي",
+  "slow": false,
+  "src": "learning:english.colors.purple"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Purple يعني بنفسجي",
+  "slow": false,
+  "src": "learning:english.colors.purple"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Red يعني أحمر",
+  "slow": false,
+  "src": "learning:english.colors.red"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Red يعني أحمر",
+  "slow": false,
+  "src": "learning:english.colors.red"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Run يعني اركض",
+  "slow": false,
+  "src": "learning:english.actions.run"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Run يعني اركض",
+  "slow": false,
+  "src": "learning:english.actions.run"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Star يعني نجمة",
+  "slow": false,
+  "src": "learning:english.objects.star"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Star يعني نجمة",
+  "slow": false,
+  "src": "learning:english.objects.star"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Sun يعني شمس",
+  "slow": false,
+  "src": "learning:english.objects.sun"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Sun يعني شمس",
+  "slow": false,
+  "src": "learning:english.objects.sun"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Teddy bear يعني دبدوب",
+  "slow": false,
+  "src": "learning:english.toys.teddy"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Teddy bear يعني دبدوب",
+  "slow": false,
+  "src": "learning:english.toys.teddy"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Train يعني قطار",
+  "slow": false,
+  "src": "learning:english.vehicles.train"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Train يعني قطار",
+  "slow": false,
+  "src": "learning:english.vehicles.train"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Tree يعني شجرة",
+  "slow": false,
+  "src": "learning:english.objects.tree"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Tree يعني شجرة",
+  "slow": false,
+  "src": "learning:english.objects.tree"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "White يعني أبيض",
+  "slow": false,
+  "src": "learning:english.colors.white"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "White يعني أبيض",
+  "slow": false,
+  "src": "learning:english.colors.white"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "Yellow يعني أصفر",
+  "slow": false,
+  "src": "learning:english.colors.yellow"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "Yellow يعني أصفر",
+  "slow": false,
+  "src": "learning:english.colors.yellow"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "آخر دورة يا بطل!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "آخر دورة يا بطل!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "آخر صديق! يلا يا بطل!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "آخر صديق! يلا يا بطل!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "آخر صديق! يلا يا بطل!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "narrator",
+  "lang": "ar",
+  "text": "آخر قطعة من الخريطة!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "آخر قطعة من الخريطة!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "آدم! بدنا هدف أخير!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "آدم! بدنا هدف أخير!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "آدم! بدنا هدف أخير!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أبيض",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أحمر",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أخضر",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أذن",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أربعة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أزرق",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أسد",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أسود",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أشياء",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أصفر",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أكبر",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أنت الأول يا آدم! فزت بالسباق!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "أنت الأول يا آدم! فزت بالسباق!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أنف",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أنقذت كل أصحابك! أنت بطل حقيقي!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "أنقذت كل أصحابك! أنت بطل حقيقي!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "أنقذت كل أصحابك! أنت بطل حقيقي!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أهلا بجزيرة الكنز يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "narrator",
+  "lang": "ar",
+  "text": "أهلا بجزيرة الكنز يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أهلا بخزانة البطل! اختار شو بدك تلبس!",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "أهلا فيك بالملعب يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "أهلا فيك بالملعب يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أهلا فيك بالملعب يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "أي رقم أكبر؟",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "أي رقم أكبر؟",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "إيد",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "اجمع 20 نجمة لتفتحها!",
+  "slow": false,
+  "src": "template:unlockHint"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "اجمع 30 نجمة لتفتحها!",
+  "slow": false,
+  "src": "template:unlockHint"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "اجمع 40 نجمة لتفتحها!",
+  "slow": false,
+  "src": "template:unlockHint"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "اجمع 45 نجمة لتفتحها!",
+  "slow": false,
+  "src": "template:unlockHint"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "اجمع 60 نجمة لتفتحها!",
+  "slow": false,
+  "src": "template:unlockHint"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "اربح كأس لتفتحها!",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "اركض",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "استراحة! بدك تكمل؟",
+  "slow": false,
+  "src": "src/ui/PauseOverlay.tsx"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "اشلط",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "اضغط زر الطابة الكبير!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "اضغط زر الطابة الكبير!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "اضغط زر الطابة الكبير!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الأرقام",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الأرنب الصغير",
+  "slow": false,
+  "src": "src/game/scenes/HeroCityScene/Creature.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الأشكال",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "الأكبر يعني فيه أشياء أكثر",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الأكبر يعني فيه أشياء أكثر",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الأكل",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الألعاب",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الألوان",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الاحتفال",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "البدلة",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "التعادل! يلا نسجل كمان!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "التعادل! يلا نسجل كمان!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الجرو الصغير",
+  "slow": false,
+  "src": "src/game/scenes/HeroCityScene/Creature.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الجسم",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الحذاء",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الحذاء الذهبي",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الحيوانات",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الخريطة كملت! الكنز الكبير هناك!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "narrator",
+  "lang": "ar",
+  "text": "الخريطة كملت! الكنز الكبير هناك!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الخوذة",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الذيل",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "السباق",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "السباق لسا مسكرة. العب أكثر لتفتحها!",
+  "slow": false,
+  "src": "template:world-locked"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الشبل الصغير",
+  "slow": false,
+  "src": "src/game/scenes/HeroCityScene/Creature.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الشعر",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الطقم الذهبي",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "العب في السباق لتفتحها!",
+  "slow": false,
+  "src": "template:unlockHint"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "العب في الملعب لتفتحها!",
+  "slow": false,
+  "src": "template:unlockHint"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "العب في جزيرة الكنز لتفتحها!",
+  "slow": false,
+  "src": "template:unlockHint"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "العب في مدينة الأبطال لتفتحها!",
+  "slow": false,
+  "src": "template:unlockHint"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "العب لنلاقيه!",
+  "slow": false,
+  "src": "src/game/scenes/StickerScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "العباءة",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "العباءة الحمراء",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "العيلة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "القطة الصغيرة",
+  "slow": false,
+  "src": "src/game/scenes/HeroCityScene/Creature.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "القفازات",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "القفزة الخارقة",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "القناع",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "القناع الأزرق",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "اللي بعده",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "المركبات",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "المس الصندوق يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "narrator",
+  "lang": "ar",
+  "text": "المس الصندوق يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الملعب",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "الملعب لسا مسكرة. العب أكثر لتفتحها!",
+  "slow": false,
+  "src": "template:world-locked"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "المنافس رجع! يلا نسرّع!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "المنافس رجع! يلا نسرّع!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بابا",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "باص",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بالون",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بدك تدور على كنز كمان؟ ولا نرجع على عالمنا؟",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "narrator",
+  "lang": "ar",
+  "text": "بدك تدور على كنز كمان؟ ولا نرجع على عالمنا؟",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بدك تسابق كمان؟ ولا نرجع على عالمنا؟",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "بدك تسابق كمان؟ ولا نرجع على عالمنا؟",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بدك تلعب مباراة كمان؟ ولا نرجع على عالمنا؟",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "بدك تلعب مباراة كمان؟ ولا نرجع على عالمنا؟",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "بدك تلعب مباراة كمان؟ ولا نرجع على عالمنا؟",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بدك تنقذ أصحاب كمان؟ ولا نرجع على عالمنا؟",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "بدك تنقذ أصحاب كمان؟ ولا نرجع على عالمنا؟",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "بدك تنقذ أصحاب كمان؟ ولا نرجع على عالمنا؟",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بدلة البطل",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بدلة السباق",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بدلة الطاقة",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بدون",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "برتقالي",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بطة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بطل السباق!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بطل خارق!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بطل!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بقرة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بنفسجي",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بني",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بيبي",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "بيضة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "تفاحة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "تم",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "تيتا",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "ثلاث كؤوس!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "ثلاثة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "جاهز يا آدم؟",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "جاهز يا آدم؟",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "جزيرة الكنز",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "جزيرة الكنز لسا مسكرة. العب أكثر لتفتحها!",
+  "slow": false,
+  "src": "template:world-locked"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "حذاء السرعة",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "حرّك إصبعك عالشاشة لتركض، واضغط زر الطابة لتشوط!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "حرّك إصبعك عالشاشة لتركض، واضغط زر الطابة لتشوط!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "حرّك إصبعك عالشاشة لتركض، واضغط زر الطابة لتشوط!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "حرّك إصبعك لتطير، وطير من البوابة الصحيحة!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "حرّك إصبعك لتطير، وطير من البوابة الصحيحة!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "حرّك إصبعك لتطير، وطير من البوابة الصحيحة!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "حرّك إصبعك يمين وشمال لتسوق!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "حرّك إصبعك يمين وشمال لتسوق!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "حركات",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "حلو كتير!",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "حليب",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "خبز",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "خزانة البطل",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "خزانة البطل لسا مسكرة. العب أكثر لتفتحها!",
+  "slow": false,
+  "src": "template:world-locked"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "خط النهاية! يلا يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "خط النهاية! يلا يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "خمسة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "خوذة السباق",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "خوذة النجوم",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دائرة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دبدوب",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "دوّر على الرقم أربعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دوّر على الرقم أربعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "دوّر على الرقم اثنين",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دوّر على الرقم اثنين",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "دوّر على الرقم تسعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دوّر على الرقم تسعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "دوّر على الرقم ثلاثة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دوّر على الرقم ثلاثة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "دوّر على الرقم ثمانية",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دوّر على الرقم ثمانية",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "دوّر على الرقم خمسة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دوّر على الرقم خمسة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "دوّر على الرقم سبعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دوّر على الرقم سبعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "دوّر على الرقم ستة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دوّر على الرقم ستة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "دوّر على الرقم عشرة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دوّر على الرقم عشرة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "دوّر على الرقم واحد",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دوّر على الرقم واحد",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "دوران الإعصار",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "ذيل البرق",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "ذيل النجوم",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "راوغ يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/modes/Dribble.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "رجل",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "زائد",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "زهري",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "سبعة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "سدّد يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "سدّد يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "سدّد يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "سمكة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "سيارة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "شجرة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "شعر قصير",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "شعر كيرلي",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "شعر واقف",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "شكراً يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "شكراً يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "شكراً يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "شمس",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "شو الرقم اللي بعده؟",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "شو الرقم اللي بعده؟",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "صدّة رائعة يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/modes/Keeper.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "صديقنا الصغير محبوس! افتح البوابة الصحيحة!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "صديقنا الصغير محبوس! افتح البوابة الصحيحة!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "صديقنا الصغير محبوس! افتح البوابة الصحيحة!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "صفق",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "ضربة جزاء للمنافسين! آدم الحارس! وقّفها!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "ضربة جزاء للمنافسين! آدم الحارس! وقّفها!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "ضربة حرة!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "ضربة حرة!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "طابة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "طقم الملعب",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "طيارة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "طيارة ورق",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "عباءة البرق",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "عباءة البطل",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "عدهم كلهم مع بعض",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "عدهم كلهم مع بعض",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "عدهم واحد واحد، والمس كل واحد",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "عدهم واحد واحد، والمس كل واحد",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "عشرة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "عصفور",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "عين",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "فزت بالكأس يا آدم! أنت البطل!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "فزت بالكأس يا آدم! أنت البطل!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "فزت بالكأس يا آدم! أنت البطل!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "فيل",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "قارب",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "قريب! جرّب كمان مرة",
+  "slow": false,
+  "src": "src/game/systems/ChallengeRunner.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "قريب! جرّب كمان مرة",
+  "slow": false,
+  "src": "src/game/systems/ChallengeRunner.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "قريب! خلينا نعدهم مع بعض.",
+  "slow": false,
+  "src": "src/game/systems/ChallengeRunner.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "قريب! خلينا نعدهم مع بعض.",
+  "slow": false,
+  "src": "src/game/systems/ChallengeRunner.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "قطار",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "قطة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "قطعة من الخريطة!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "narrator",
+  "lang": "ar",
+  "text": "قطعة من الخريطة!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "قفازات القوة",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "قمر",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "قناع البطل",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "قوس قزح!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "كأس!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "كتاب الملصقات",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "كتاب الملصقات لسا مسكرة. العب أكثر لتفتحها!",
+  "slow": false,
+  "src": "template:world-locked"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "كعكة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "كلب",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "كمان مرة! سدّد!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "كمان مرة! سدّد!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "كمان مرة! سدّد!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "كمّل العد!",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "كمّل العد!",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "كنز!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "كوتشي",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "لقيت الكنز يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "narrator",
+  "lang": "ar",
+  "text": "لقيت الكنز يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "ماما",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "مدينة الأبطال",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "مدينة الأبطال بحاجة لبطل!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "مدينة الأبطال بحاجة لبطل!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "مدينة الأبطال بحاجة لبطل!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "مدينة الأبطال لسا مسكرة. العب أكثر لتفتحها!",
+  "slow": false,
+  "src": "template:world-locked"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "مرّر الطابة لصاحبك!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "مرّر الطابة لصاحبك!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "معنا اثنين وزدنا اثنين. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "معنا اثنين وزدنا اثنين. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "معنا اثنين وزدنا ثلاثة. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "معنا اثنين وزدنا ثلاثة. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "معنا اثنين وزدنا واحد. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "معنا اثنين وزدنا واحد. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "معنا ثلاثة وزدنا اثنين. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "معنا ثلاثة وزدنا اثنين. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "معنا ثلاثة وزدنا واحد. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "معنا ثلاثة وزدنا واحد. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "معنا واحد وزدنا أربعة. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "معنا واحد وزدنا أربعة. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "معنا واحد وزدنا اثنين. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "معنا واحد وزدنا اثنين. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "معنا واحد وزدنا ثلاثة. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "معنا واحد وزدنا ثلاثة. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "معنا واحد وزدنا واحد. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "معنا واحد وزدنا واحد. كم صاروا؟",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "مفاجأة اليوم!",
+  "slow": false,
+  "src": "src/game/scenes/World3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "مفاجأة اليوم!",
+  "slow": false,
+  "src": "src/game/scenes/World3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "مكعبات",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "ملصق جديد!",
+  "slow": false,
+  "src": "src/game/effects/UnlockReveal.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "ممتاز يا آدم! خلصت مغامرتنا لهسا!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "ممتاز يا آدم! خلصت مغامرتنا لهسا!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "ممتاز يا آدم! خلصت مغامرتنا لهسا!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "narrator",
+  "lang": "ar",
+  "text": "ممتاز يا آدم! خلصت مغامرتنا لهسا!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "مميزة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "موزة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "نجمة",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "نط",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "هاد عالمك يا آدم! المس مكان لنروح عليه!",
+  "slow": false,
+  "src": "src/game/scenes/WorldScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "هاد عالمك يا آدم! حرّك إصبعك لتمشي، وادخل من البوابة اللي بتلمع!",
+  "slow": false,
+  "src": "src/game/scenes/World3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "هاد عالمك يا آدم! حرّك إصبعك لتمشي، وادخل من البوابة اللي بتلمع!",
+  "slow": false,
+  "src": "src/game/scenes/World3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "هاد كتاب الملصقات تبعك يا آدم!",
+  "slow": false,
+  "src": "src/game/scenes/StickerScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "هدددف!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "هدددف!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "هدددف!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "هدف كمان ونتعادل!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "هدف كمان ونتعادل!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "هدف كمان ونتعادل!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "هدف!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "واحد كمان محتاج مساعدة!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "واحد كمان محتاج مساعدة!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واحد كمان محتاج مساعدة!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت الحذاء الذهبي!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت الطقم الذهبي!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت العباءة الحمراء!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت القفزة الخارقة!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت القناع الأزرق!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت بدلة البطل!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت بدلة السباق!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت بدلة الطاقة!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت بدون!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت حذاء السرعة!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت خوذة السباق!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت خوذة النجوم!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت دوران الإعصار!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت ذيل البرق!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت ذيل النجوم!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت طقم الملعب!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت عباءة البرق!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت عباءة البطل!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت قفازات القوة!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت قناع البطل!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت كوتشي!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "واو! فتحت وقفة البطل!",
+  "slow": false,
+  "src": "template:unlock"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وقفة البطل",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "ولا يهمك يا بطل! يلا مرة ثانية",
+  "slow": false,
+  "src": "src/game/systems/ChallengeRunner.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "ولا يهمك يا بطل! يلا مرة ثانية",
+  "slow": false,
+  "src": "src/game/systems/ChallengeRunner.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الأذن؟",
+  "slow": false,
+  "src": "learning:english.body.ear"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الأذن؟",
+  "slow": false,
+  "src": "learning:english.body.ear"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الأسد؟",
+  "slow": false,
+  "src": "learning:english.animals.lion"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الأسد؟",
+  "slow": false,
+  "src": "learning:english.animals.lion"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الأنف؟",
+  "slow": false,
+  "src": "learning:english.body.nose"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الأنف؟",
+  "slow": false,
+  "src": "learning:english.body.nose"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الإيد؟",
+  "slow": false,
+  "src": "learning:english.body.hand"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الإيد؟",
+  "slow": false,
+  "src": "learning:english.body.hand"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الاركض؟",
+  "slow": false,
+  "src": "learning:english.actions.run"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الاركض؟",
+  "slow": false,
+  "src": "learning:english.actions.run"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الاشلط؟",
+  "slow": false,
+  "src": "learning:english.actions.kick"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الاشلط؟",
+  "slow": false,
+  "src": "learning:english.actions.kick"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين البابا؟",
+  "slow": false,
+  "src": "learning:english.family.dad"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين البابا؟",
+  "slow": false,
+  "src": "learning:english.family.dad"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الباص؟",
+  "slow": false,
+  "src": "learning:english.vehicles.bus"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الباص؟",
+  "slow": false,
+  "src": "learning:english.vehicles.bus"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين البالون؟",
+  "slow": false,
+  "src": "learning:english.toys.balloon"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين البالون؟",
+  "slow": false,
+  "src": "learning:english.toys.balloon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين البطة؟",
+  "slow": false,
+  "src": "learning:english.animals.duck"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين البطة؟",
+  "slow": false,
+  "src": "learning:english.animals.duck"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين البقرة؟",
+  "slow": false,
+  "src": "learning:english.animals.cow"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين البقرة؟",
+  "slow": false,
+  "src": "learning:english.animals.cow"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين البيبي؟",
+  "slow": false,
+  "src": "learning:english.family.baby"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين البيبي؟",
+  "slow": false,
+  "src": "learning:english.family.baby"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين البيضة؟",
+  "slow": false,
+  "src": "learning:english.food.egg"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين البيضة؟",
+  "slow": false,
+  "src": "learning:english.food.egg"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين التفاحة؟",
+  "slow": false,
+  "src": "learning:english.food.apple"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين التفاحة؟",
+  "slow": false,
+  "src": "learning:english.food.apple"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين التم؟",
+  "slow": false,
+  "src": "learning:english.body.mouth"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين التم؟",
+  "slow": false,
+  "src": "learning:english.body.mouth"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين التيتا؟",
+  "slow": false,
+  "src": "learning:english.family.grandma"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين التيتا؟",
+  "slow": false,
+  "src": "learning:english.family.grandma"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الحليب؟",
+  "slow": false,
+  "src": "learning:english.food.milk"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الحليب؟",
+  "slow": false,
+  "src": "learning:english.food.milk"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الخبز؟",
+  "slow": false,
+  "src": "learning:english.food.bread"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الخبز؟",
+  "slow": false,
+  "src": "learning:english.food.bread"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الدائرة؟",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الدائرة؟",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الدبدوب؟",
+  "slow": false,
+  "src": "learning:english.toys.teddy"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الدبدوب؟",
+  "slow": false,
+  "src": "learning:english.toys.teddy"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الرجل؟",
+  "slow": false,
+  "src": "learning:english.body.foot"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الرجل؟",
+  "slow": false,
+  "src": "learning:english.body.foot"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين السمكة؟",
+  "slow": false,
+  "src": "learning:english.animals.fish"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين السمكة؟",
+  "slow": false,
+  "src": "learning:english.animals.fish"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين السيارة؟",
+  "slow": false,
+  "src": "learning:english.vehicles.car"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين السيارة؟",
+  "slow": false,
+  "src": "learning:english.vehicles.car"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الشجرة؟",
+  "slow": false,
+  "src": "learning:english.objects.tree"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الشجرة؟",
+  "slow": false,
+  "src": "learning:english.objects.tree"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الشمس؟",
+  "slow": false,
+  "src": "learning:english.objects.sun"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الشمس؟",
+  "slow": false,
+  "src": "learning:english.objects.sun"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الصفق؟",
+  "slow": false,
+  "src": "learning:english.actions.clap"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الصفق؟",
+  "slow": false,
+  "src": "learning:english.actions.clap"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الطابة؟",
+  "slow": false,
+  "src": "learning:english.toys.ball"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الطابة؟",
+  "slow": false,
+  "src": "learning:english.toys.ball"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الطيارة ورق؟",
+  "slow": false,
+  "src": "learning:english.toys.kite"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الطيارة ورق؟",
+  "slow": false,
+  "src": "learning:english.toys.kite"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الطيارة؟",
+  "slow": false,
+  "src": "learning:english.vehicles.plane"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الطيارة؟",
+  "slow": false,
+  "src": "learning:english.vehicles.plane"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين العصفور؟",
+  "slow": false,
+  "src": "learning:english.animals.bird"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين العصفور؟",
+  "slow": false,
+  "src": "learning:english.animals.bird"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين العين؟",
+  "slow": false,
+  "src": "learning:english.body.eye"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين العين؟",
+  "slow": false,
+  "src": "learning:english.body.eye"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الفيل؟",
+  "slow": false,
+  "src": "learning:english.animals.elephant"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الفيل؟",
+  "slow": false,
+  "src": "learning:english.animals.elephant"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين القارب؟",
+  "slow": false,
+  "src": "learning:english.vehicles.boat"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين القارب؟",
+  "slow": false,
+  "src": "learning:english.vehicles.boat"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين القطار؟",
+  "slow": false,
+  "src": "learning:english.vehicles.train"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين القطار؟",
+  "slow": false,
+  "src": "learning:english.vehicles.train"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين القطة؟",
+  "slow": false,
+  "src": "learning:english.animals.cat"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين القطة؟",
+  "slow": false,
+  "src": "learning:english.animals.cat"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين القلب؟",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين القلب؟",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين القمر؟",
+  "slow": false,
+  "src": "learning:english.objects.moon"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين القمر؟",
+  "slow": false,
+  "src": "learning:english.objects.moon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الكعكة؟",
+  "slow": false,
+  "src": "learning:english.food.cake"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الكعكة؟",
+  "slow": false,
+  "src": "learning:english.food.cake"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الكلب؟",
+  "slow": false,
+  "src": "learning:english.animals.dog"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الكلب؟",
+  "slow": false,
+  "src": "learning:english.animals.dog"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الماما؟",
+  "slow": false,
+  "src": "learning:english.family.mom"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الماما؟",
+  "slow": false,
+  "src": "learning:english.family.mom"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين المثلث؟",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين المثلث؟",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين المربع؟",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين المربع؟",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين المكعبات؟",
+  "slow": false,
+  "src": "learning:english.toys.blocks"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين المكعبات؟",
+  "slow": false,
+  "src": "learning:english.toys.blocks"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين الموزة؟",
+  "slow": false,
+  "src": "learning:english.food.banana"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين الموزة؟",
+  "slow": false,
+  "src": "learning:english.food.banana"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين النجمة؟",
+  "slow": false,
+  "src": "learning:english.objects.star"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين النجمة؟",
+  "slow": false,
+  "src": "learning:english.objects.star"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "وين النط؟",
+  "slow": false,
+  "src": "learning:english.actions.jump"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين النط؟",
+  "slow": false,
+  "src": "learning:english.actions.jump"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "وين بدك تروح هلأ يا بطل؟",
+  "slow": false,
+  "src": "src/game/scenes/World3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "وين بدك تروح هلأ يا بطل؟",
+  "slow": false,
+  "src": "src/game/scenes/World3D/index.ts"
+ },
+ {
+  "speaker": "narrator",
+  "lang": "ar",
+  "text": "يا آدم! خريطة الكنز مقطعة. كل صندوق فيه قطعة!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يا آدم! خريطة الكنز مقطعة. كل صندوق فيه قطعة!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يا آدم! دوّر على",
+  "slow": false,
+  "src": "learning:english.colors.red"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يا آدم! دوّر على",
+  "slow": false,
+  "src": "learning:english.colors.red"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يا سلام! الحارس مسكها!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "يا سلام! الحارس مسكها!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يا سلام! الحارس مسكها!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني أبيض",
+  "slow": false,
+  "src": "learning:english.colors.white"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني أبيض",
+  "slow": false,
+  "src": "learning:english.colors.white"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني أحمر",
+  "slow": false,
+  "src": "learning:english.colors.red"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني أحمر",
+  "slow": false,
+  "src": "learning:english.colors.red"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني أخضر",
+  "slow": false,
+  "src": "learning:english.colors.green"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني أخضر",
+  "slow": false,
+  "src": "learning:english.colors.green"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني أربعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني أربعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني أزرق",
+  "slow": false,
+  "src": "learning:english.colors.blue"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني أزرق",
+  "slow": false,
+  "src": "learning:english.colors.blue"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني أسود",
+  "slow": false,
+  "src": "learning:english.colors.black"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني أسود",
+  "slow": false,
+  "src": "learning:english.colors.black"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني أصفر",
+  "slow": false,
+  "src": "learning:english.colors.yellow"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني أصفر",
+  "slow": false,
+  "src": "learning:english.colors.yellow"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني اثنين",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني اثنين",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني برتقالي",
+  "slow": false,
+  "src": "learning:english.colors.orange"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني برتقالي",
+  "slow": false,
+  "src": "learning:english.colors.orange"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني بنفسجي",
+  "slow": false,
+  "src": "learning:english.colors.purple"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني بنفسجي",
+  "slow": false,
+  "src": "learning:english.colors.purple"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني بني",
+  "slow": false,
+  "src": "learning:english.colors.brown"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني بني",
+  "slow": false,
+  "src": "learning:english.colors.brown"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني تسعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني تسعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني ثلاثة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني ثلاثة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني ثمانية",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني ثمانية",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني خمسة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني خمسة",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني دائرة",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني دائرة",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني زهري",
+  "slow": false,
+  "src": "learning:english.colors.pink"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني زهري",
+  "slow": false,
+  "src": "learning:english.colors.pink"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني سبعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني سبعة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني ستة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني ستة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني عشرة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني عشرة",
+  "slow": false,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني قلب",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني قلب",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني مثلث",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني مثلث",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني مربع",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني مربع",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني نجمة",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني نجمة",
+  "slow": false,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يعني واحد",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يعني واحد",
+  "slow": false,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "narrator",
+  "lang": "ar",
+  "text": "يلا على الصندوق الثاني!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يلا على الصندوق الثاني!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يلا نراوغ بين الأقماع!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يلا نراوغ بين الأقماع!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يلا نرتاح. بنكمل بكرة!",
+  "slow": false,
+  "src": "src/game/scenes/RestScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يلا نعد الطابات! كم واحد في؟",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يلا نعد الليرات! كم واحد في؟",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يلا نعد النجوم! كم واحد في؟",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يلا يا آدم! السباق بلّش!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يلا يا آدم! السباق بلّش!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "ar",
+  "text": "يلا يا آدم! المنافسين معهم هدفين. بدنا نرجع!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "adam",
+  "lang": "ar",
+  "text": "يلا يا آدم! المنافسين معهم هدفين. بدنا نرجع!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يلا يا آدم! المنافسين معهم هدفين. بدنا نرجع!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "ar",
+  "text": "يلا يا آدم! مغامرتك بلشت!",
+  "slow": false,
+  "src": "src/game/scenes/BootScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Actions",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Almost! Try again!",
+  "slow": false,
+  "src": "src/game/systems/ChallengeRunner.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Animals",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Apple",
+  "slow": true,
+  "src": "learning:english.food.apple"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Apple!",
+  "slow": true,
+  "src": "learning:english.food.apple"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Baby",
+  "slow": true,
+  "src": "learning:english.family.baby"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Baby!",
+  "slow": true,
+  "src": "learning:english.family.baby"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Ball",
+  "slow": true,
+  "src": "learning:english.toys.ball"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Ball!",
+  "slow": true,
+  "src": "learning:english.toys.ball"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Balloon",
+  "slow": true,
+  "src": "learning:english.toys.balloon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Balloon!",
+  "slow": true,
+  "src": "learning:english.toys.balloon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Banana",
+  "slow": true,
+  "src": "learning:english.food.banana"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Banana!",
+  "slow": true,
+  "src": "learning:english.food.banana"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Bigger",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Bigger!",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Bird",
+  "slow": true,
+  "src": "learning:english.animals.bird"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Bird!",
+  "slow": true,
+  "src": "learning:english.animals.bird"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Black",
+  "slow": true,
+  "src": "learning:english.colors.black"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Black!",
+  "slow": true,
+  "src": "learning:english.colors.black"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Blocks",
+  "slow": true,
+  "src": "learning:english.toys.blocks"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Blocks!",
+  "slow": true,
+  "src": "learning:english.toys.blocks"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Blue",
+  "slow": true,
+  "src": "learning:english.colors.blue"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Blue Mask",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Blue!",
+  "slow": true,
+  "src": "learning:english.colors.blue"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Boat",
+  "slow": true,
+  "src": "learning:english.vehicles.boat"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Boat!",
+  "slow": true,
+  "src": "learning:english.vehicles.boat"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Body",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Bread",
+  "slow": true,
+  "src": "learning:english.food.bread"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Bread!",
+  "slow": true,
+  "src": "learning:english.food.bread"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Brown",
+  "slow": true,
+  "src": "learning:english.colors.brown"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Brown!",
+  "slow": true,
+  "src": "learning:english.colors.brown"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Bunny",
+  "slow": false,
+  "src": "src/game/scenes/HeroCityScene/Creature.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Bus",
+  "slow": true,
+  "src": "learning:english.vehicles.bus"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Bus!",
+  "slow": true,
+  "src": "learning:english.vehicles.bus"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Cake",
+  "slow": true,
+  "src": "learning:english.food.cake"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Cake!",
+  "slow": true,
+  "src": "learning:english.food.cake"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Cape",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Car",
+  "slow": true,
+  "src": "learning:english.vehicles.car"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Car!",
+  "slow": true,
+  "src": "learning:english.vehicles.car"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Cat",
+  "slow": true,
+  "src": "learning:english.animals.cat"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Cat!",
+  "slow": true,
+  "src": "learning:english.animals.cat"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Celebration",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Champion Cape",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Champion Pose",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Champion!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Circle",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Circle!",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Clap",
+  "slow": true,
+  "src": "learning:english.actions.clap"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Clap!",
+  "slow": true,
+  "src": "learning:english.actions.clap"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Colours",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Cow",
+  "slow": true,
+  "src": "learning:english.animals.cow"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Cow!",
+  "slow": true,
+  "src": "learning:english.animals.cow"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Curly hair",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Dad",
+  "slow": true,
+  "src": "learning:english.family.dad"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Dad!",
+  "slow": true,
+  "src": "learning:english.family.dad"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Dog",
+  "slow": true,
+  "src": "learning:english.animals.dog"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Dog!",
+  "slow": true,
+  "src": "learning:english.animals.dog"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Dribble!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Duck",
+  "slow": true,
+  "src": "learning:english.animals.duck"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Duck!",
+  "slow": true,
+  "src": "learning:english.animals.duck"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Ear",
+  "slow": true,
+  "src": "learning:english.body.ear"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Ear!",
+  "slow": true,
+  "src": "learning:english.body.ear"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Egg",
+  "slow": true,
+  "src": "learning:english.food.egg"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Egg!",
+  "slow": true,
+  "src": "learning:english.food.egg"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "eight",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Eight",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Eight balls!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Eight coins!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Eight is bigger!",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Eight stars!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Eight!",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "eighteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Eighteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Elephant",
+  "slow": true,
+  "src": "learning:english.animals.elephant"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Elephant!",
+  "slow": true,
+  "src": "learning:english.animals.elephant"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "eleven",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Eleven",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Energy Suit",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Eye",
+  "slow": true,
+  "src": "learning:english.body.eye"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Eye!",
+  "slow": true,
+  "src": "learning:english.body.eye"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Family",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "fifteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Fifteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find black!",
+  "slow": true,
+  "src": "learning:english.colors.black"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find blue!",
+  "slow": true,
+  "src": "learning:english.colors.blue"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find brown!",
+  "slow": true,
+  "src": "learning:english.colors.brown"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find green!",
+  "slow": true,
+  "src": "learning:english.colors.green"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find number eight!",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find number five!",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find number four!",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find number nine!",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find number one!",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find number seven!",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find number six!",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find number ten!",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find number three!",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find number two!",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find orange!",
+  "slow": true,
+  "src": "learning:english.colors.orange"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find pink!",
+  "slow": true,
+  "src": "learning:english.colors.pink"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find purple!",
+  "slow": true,
+  "src": "learning:english.colors.purple"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find red!",
+  "slow": true,
+  "src": "learning:english.colors.red"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the apple!",
+  "slow": true,
+  "src": "learning:english.food.apple"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the baby!",
+  "slow": true,
+  "src": "learning:english.family.baby"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the ball!",
+  "slow": true,
+  "src": "learning:english.toys.ball"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the balloon!",
+  "slow": true,
+  "src": "learning:english.toys.balloon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the banana!",
+  "slow": true,
+  "src": "learning:english.food.banana"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the bird!",
+  "slow": true,
+  "src": "learning:english.animals.bird"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the blocks!",
+  "slow": true,
+  "src": "learning:english.toys.blocks"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the boat!",
+  "slow": true,
+  "src": "learning:english.vehicles.boat"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the bread!",
+  "slow": true,
+  "src": "learning:english.food.bread"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the bus!",
+  "slow": true,
+  "src": "learning:english.vehicles.bus"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the cake!",
+  "slow": true,
+  "src": "learning:english.food.cake"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the car!",
+  "slow": true,
+  "src": "learning:english.vehicles.car"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the cat!",
+  "slow": true,
+  "src": "learning:english.animals.cat"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the circle!",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the clap!",
+  "slow": true,
+  "src": "learning:english.actions.clap"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the cow!",
+  "slow": true,
+  "src": "learning:english.animals.cow"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the dad!",
+  "slow": true,
+  "src": "learning:english.family.dad"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the dog!",
+  "slow": true,
+  "src": "learning:english.animals.dog"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the duck!",
+  "slow": true,
+  "src": "learning:english.animals.duck"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the ear!",
+  "slow": true,
+  "src": "learning:english.body.ear"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the egg!",
+  "slow": true,
+  "src": "learning:english.food.egg"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the elephant!",
+  "slow": true,
+  "src": "learning:english.animals.elephant"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the eye!",
+  "slow": true,
+  "src": "learning:english.body.eye"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the fish!",
+  "slow": true,
+  "src": "learning:english.animals.fish"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the foot!",
+  "slow": true,
+  "src": "learning:english.body.foot"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the grandma!",
+  "slow": true,
+  "src": "learning:english.family.grandma"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the hand!",
+  "slow": true,
+  "src": "learning:english.body.hand"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the heart!",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the jump!",
+  "slow": true,
+  "src": "learning:english.actions.jump"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the kick!",
+  "slow": true,
+  "src": "learning:english.actions.kick"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the kite!",
+  "slow": true,
+  "src": "learning:english.toys.kite"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the lion!",
+  "slow": true,
+  "src": "learning:english.animals.lion"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the milk!",
+  "slow": true,
+  "src": "learning:english.food.milk"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the mom!",
+  "slow": true,
+  "src": "learning:english.family.mom"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the moon!",
+  "slow": true,
+  "src": "learning:english.objects.moon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the mouth!",
+  "slow": true,
+  "src": "learning:english.body.mouth"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the nose!",
+  "slow": true,
+  "src": "learning:english.body.nose"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the plane!",
+  "slow": true,
+  "src": "learning:english.vehicles.plane"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the run!",
+  "slow": true,
+  "src": "learning:english.actions.run"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the square!",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the star!",
+  "slow": true,
+  "src": "learning:english.objects.star"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the sun!",
+  "slow": true,
+  "src": "learning:english.objects.sun"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the teddy bear!",
+  "slow": true,
+  "src": "learning:english.toys.teddy"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the train!",
+  "slow": true,
+  "src": "learning:english.vehicles.train"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the tree!",
+  "slow": true,
+  "src": "learning:english.objects.tree"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find the triangle!",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find white!",
+  "slow": true,
+  "src": "learning:english.colors.white"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Find yellow!",
+  "slow": true,
+  "src": "learning:english.colors.yellow"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "First place!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Fish",
+  "slow": true,
+  "src": "learning:english.animals.fish"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Fish!",
+  "slow": true,
+  "src": "learning:english.animals.fish"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "five",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Five",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Five balls!",
+  "slow": false,
+  "src": "learning:math.count.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Five coins!",
+  "slow": false,
+  "src": "learning:math.count.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Five is bigger!",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Five stars!",
+  "slow": false,
+  "src": "learning:math.count.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Five, Six, Seven...",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Five, Six, Seven... what comes next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Five, Six, Seven... what's next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Five!",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Food",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Foot",
+  "slow": true,
+  "src": "learning:english.body.foot"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Foot!",
+  "slow": true,
+  "src": "learning:english.body.foot"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Football Kit",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "four",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Four",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Four balls!",
+  "slow": false,
+  "src": "learning:math.count.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Four coins!",
+  "slow": false,
+  "src": "learning:math.count.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Four is bigger!",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Four stars!",
+  "slow": false,
+  "src": "learning:math.count.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Four, Five, Six...",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Four, Five, Six... what comes next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Four, Five, Six... what's next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Four!",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "fourteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Fourteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Free kick!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Gloves",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Goal Stadium",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Goal Stadium!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Goal!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Golden Boots",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Golden Kit",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Grandma",
+  "slow": true,
+  "src": "learning:english.family.grandma"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Grandma!",
+  "slow": true,
+  "src": "learning:english.family.grandma"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Great job, Adam!",
+  "slow": false,
+  "src": "src/game/scenes/RestScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Great save!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Green",
+  "slow": true,
+  "src": "learning:english.colors.green"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Green!",
+  "slow": true,
+  "src": "learning:english.colors.green"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Hair",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Hand",
+  "slow": true,
+  "src": "learning:english.body.hand"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Hand!",
+  "slow": true,
+  "src": "learning:english.body.hand"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Heart",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Heart!",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Helmet",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Hero City",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Hero City!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Hero Closet",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Hero Mask",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Hero Suit",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Hero!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "How many balls?",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "How many balls? Count them!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "How many coins?",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "How many coins? Count them!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "How many stars?",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "How many stars? Count them!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Jump",
+  "slow": true,
+  "src": "learning:english.actions.jump"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Jump!",
+  "slow": true,
+  "src": "learning:english.actions.jump"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Kick",
+  "slow": true,
+  "src": "learning:english.actions.kick"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Kick!",
+  "slow": true,
+  "src": "learning:english.actions.kick"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Kite",
+  "slow": true,
+  "src": "learning:english.toys.kite"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Kite!",
+  "slow": true,
+  "src": "learning:english.toys.kite"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Kitten",
+  "slow": false,
+  "src": "src/game/scenes/HeroCityScene/Creature.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Lightning Cape",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Lightning Trail",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Lion",
+  "slow": true,
+  "src": "learning:english.animals.lion"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Lion cub",
+  "slow": false,
+  "src": "src/game/scenes/HeroCityScene/Creature.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Lion!",
+  "slow": true,
+  "src": "learning:english.animals.lion"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Mask",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Milk",
+  "slow": true,
+  "src": "learning:english.food.milk"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Milk!",
+  "slow": true,
+  "src": "learning:english.food.milk"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Mom",
+  "slow": true,
+  "src": "learning:english.family.mom"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Mom!",
+  "slow": true,
+  "src": "learning:english.family.mom"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Moon",
+  "slow": true,
+  "src": "learning:english.objects.moon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Moon!",
+  "slow": true,
+  "src": "learning:english.objects.moon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Mouth",
+  "slow": true,
+  "src": "learning:english.body.mouth"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Mouth!",
+  "slow": true,
+  "src": "learning:english.body.mouth"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Next",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "nine",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Nine",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Nine balls!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Nine coins!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Nine is bigger!",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Nine stars!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Nine!",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "nineteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Nineteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "No Cape",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "No Gloves",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "No Helmet",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "No Mask",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "No Trail",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Nose",
+  "slow": true,
+  "src": "learning:english.body.nose"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Nose!",
+  "slow": true,
+  "src": "learning:english.body.nose"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Numbers",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "one",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One and four more!",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One and four more. How many?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One and one more!",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One and one more. How many?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One and three more!",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One and three more. How many?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One and two more!",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One and two more. How many?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One ball!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "One coin!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One plus four?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One plus one?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One plus three?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One plus two?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "One star!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One, Two, Three...",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One, Two, Three... what comes next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One, Two, Three... what's next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "One!",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Orange",
+  "slow": true,
+  "src": "learning:english.colors.orange"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Orange!",
+  "slow": true,
+  "src": "learning:english.colors.orange"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Outfit",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Pass!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Pink",
+  "slow": true,
+  "src": "learning:english.colors.pink"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Pink!",
+  "slow": true,
+  "src": "learning:english.colors.pink"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Plane",
+  "slow": true,
+  "src": "learning:english.vehicles.plane"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Plane!",
+  "slow": true,
+  "src": "learning:english.vehicles.plane"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Plus",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Power Gloves",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Puppy",
+  "slow": false,
+  "src": "src/game/scenes/HeroCityScene/Creature.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Purple",
+  "slow": true,
+  "src": "learning:english.colors.purple"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Purple!",
+  "slow": true,
+  "src": "learning:english.colors.purple"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Race winner!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Racing Helmet",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Racing Suit",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Rainbow!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Ready… set… GO!",
+  "slow": false,
+  "src": "src/game/scenes/Racing3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Red",
+  "slow": true,
+  "src": "learning:english.colors.red"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Red Cape",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Red!",
+  "slow": true,
+  "src": "learning:english.colors.red"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Run",
+  "slow": true,
+  "src": "learning:english.actions.run"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Run!",
+  "slow": true,
+  "src": "learning:english.actions.run"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Save it!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "seven",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Seven",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Seven balls!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Seven coins!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Seven is bigger!",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Seven stars!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Seven!",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "seventeen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Seventeen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Shapes",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Shoes",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Shoot!",
+  "slow": false,
+  "src": "src/game/scenes/Football3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Short hair",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "six",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Six",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Six balls!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Six coins!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Six is bigger!",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Six stars!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Six, Seven, Eight...",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Six, Seven, Eight... what comes next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Six, Seven, Eight... what's next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Six!",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "sixteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Sixteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Sneakers",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Special",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Speed Boots",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Spiky hair",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Square",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Square!",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Star",
+  "slow": true,
+  "src": "learning:english.objects.star"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Star Helmet",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Star Trail",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Star!",
+  "slow": true,
+  "src": "learning:english.objects.star"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Sticker Book",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Sticker book!",
+  "slow": false,
+  "src": "src/game/scenes/StickerScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Sun",
+  "slow": true,
+  "src": "learning:english.objects.sun"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Sun!",
+  "slow": true,
+  "src": "learning:english.objects.sun"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Super hero!",
+  "slow": false,
+  "src": "src/game/scenes/HeroCity3D/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Super Jump",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Super save!",
+  "slow": false,
+  "src": "src/game/scenes/FootballScene/modes/Keeper.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Surprise!",
+  "slow": false,
+  "src": "src/game/scenes/World3D/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Teddy bear",
+  "slow": true,
+  "src": "learning:english.toys.teddy"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Teddy bear!",
+  "slow": true,
+  "src": "learning:english.toys.teddy"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "ten",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Ten",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Ten balls!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Ten coins!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Ten stars!",
+  "slow": false,
+  "src": "learning:math.count.1-10"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Ten!",
+  "slow": true,
+  "src": "learning:math.recognize.1-10"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Things",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "thirteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Thirteen",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "three",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three and one more!",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three and one more. How many?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three and two more!",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three and two more. How many?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three balls!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Three coins!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three is bigger!",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three plus one?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three plus two?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Three stars!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Three trophies!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three, Four, Five...",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three, Four, Five... what comes next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three, Four, Five... what's next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Three!",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Tornado Spin",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Toys",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Trail",
+  "slow": false,
+  "src": "src/game/scenes/ClosetScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Train",
+  "slow": true,
+  "src": "learning:english.vehicles.train"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Train!",
+  "slow": true,
+  "src": "learning:english.vehicles.train"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Treasure Island",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Treasure Island!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Treasure!",
+  "slow": false,
+  "src": "src/game/scenes/TreasureScene/index.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Tree",
+  "slow": true,
+  "src": "learning:english.objects.tree"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Tree!",
+  "slow": true,
+  "src": "learning:english.objects.tree"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Triangle",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Triangle!",
+  "slow": true,
+  "src": "learning:math.shapes.basic"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Trophy!",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Turbo Racing",
+  "slow": false,
+  "src": "src/game/scenes/World3D/layout.ts"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "twelve",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Twelve",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "twenty",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Twenty",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "two",
+  "slow": false,
+  "src": "counting"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two and one more!",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two and one more. How many?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two and three more!",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two and three more. How many?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two and two more!",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two and two more. How many?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two balls!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Two coins!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two is bigger!",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two plus one?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two plus three?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two plus two?",
+  "slow": false,
+  "src": "learning:math.add.within5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Two stars!",
+  "slow": false,
+  "src": "learning:math.count.1-3"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two, Three, Four...",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two, Three, Four... what comes next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two, Three, Four... what's next?",
+  "slow": false,
+  "src": "learning:math.order.next"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Two!",
+  "slow": true,
+  "src": "learning:math.recognize.1-5"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Vehicles",
+  "slow": false,
+  "src": "stickers"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the apple?",
+  "slow": false,
+  "src": "learning:english.food.apple"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the baby?",
+  "slow": false,
+  "src": "learning:english.family.baby"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the ball?",
+  "slow": false,
+  "src": "learning:english.toys.ball"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the balloon?",
+  "slow": false,
+  "src": "learning:english.toys.balloon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the banana?",
+  "slow": false,
+  "src": "learning:english.food.banana"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the bird?",
+  "slow": false,
+  "src": "learning:english.animals.bird"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the blocks?",
+  "slow": false,
+  "src": "learning:english.toys.blocks"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the boat?",
+  "slow": false,
+  "src": "learning:english.vehicles.boat"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the bread?",
+  "slow": false,
+  "src": "learning:english.food.bread"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the bus?",
+  "slow": false,
+  "src": "learning:english.vehicles.bus"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the cake?",
+  "slow": false,
+  "src": "learning:english.food.cake"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the car?",
+  "slow": false,
+  "src": "learning:english.vehicles.car"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the cat?",
+  "slow": false,
+  "src": "learning:english.animals.cat"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the clap?",
+  "slow": false,
+  "src": "learning:english.actions.clap"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the cow?",
+  "slow": false,
+  "src": "learning:english.animals.cow"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the dad?",
+  "slow": false,
+  "src": "learning:english.family.dad"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the dog?",
+  "slow": false,
+  "src": "learning:english.animals.dog"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the duck?",
+  "slow": false,
+  "src": "learning:english.animals.duck"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the ear?",
+  "slow": false,
+  "src": "learning:english.body.ear"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the egg?",
+  "slow": false,
+  "src": "learning:english.food.egg"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the elephant?",
+  "slow": false,
+  "src": "learning:english.animals.elephant"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the eye?",
+  "slow": false,
+  "src": "learning:english.body.eye"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the fish?",
+  "slow": false,
+  "src": "learning:english.animals.fish"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the foot?",
+  "slow": false,
+  "src": "learning:english.body.foot"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the grandma?",
+  "slow": false,
+  "src": "learning:english.family.grandma"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the hand?",
+  "slow": false,
+  "src": "learning:english.body.hand"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the jump?",
+  "slow": false,
+  "src": "learning:english.actions.jump"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the kick?",
+  "slow": false,
+  "src": "learning:english.actions.kick"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the kite?",
+  "slow": false,
+  "src": "learning:english.toys.kite"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the lion?",
+  "slow": false,
+  "src": "learning:english.animals.lion"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the milk?",
+  "slow": false,
+  "src": "learning:english.food.milk"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the mom?",
+  "slow": false,
+  "src": "learning:english.family.mom"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the moon?",
+  "slow": false,
+  "src": "learning:english.objects.moon"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the mouth?",
+  "slow": false,
+  "src": "learning:english.body.mouth"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the nose?",
+  "slow": false,
+  "src": "learning:english.body.nose"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the plane?",
+  "slow": false,
+  "src": "learning:english.vehicles.plane"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the run?",
+  "slow": false,
+  "src": "learning:english.actions.run"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the star?",
+  "slow": false,
+  "src": "learning:english.objects.star"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the sun?",
+  "slow": false,
+  "src": "learning:english.objects.sun"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the teddy bear?",
+  "slow": false,
+  "src": "learning:english.toys.teddy"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the train?",
+  "slow": false,
+  "src": "learning:english.vehicles.train"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Where is the tree?",
+  "slow": false,
+  "src": "learning:english.objects.tree"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Which is bigger?",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Which number is bigger?",
+  "slow": false,
+  "src": "learning:math.compare.bigger"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "White",
+  "slow": true,
+  "src": "learning:english.colors.white"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "White!",
+  "slow": true,
+  "src": "learning:english.colors.white"
+ },
+ {
+  "speaker": "sparky",
+  "lang": "en",
+  "text": "Win a trophy!",
+  "slow": false,
+  "src": "src/avatar/items.ts"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Yellow",
+  "slow": true,
+  "src": "learning:english.colors.yellow"
+ },
+ {
+  "speaker": "commentator",
+  "lang": "en",
+  "text": "Yellow!",
+  "slow": true,
+  "src": "learning:english.colors.yellow"
+ }
+]

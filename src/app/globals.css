@@ -1,26 +1,140 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/* Design tokens (docs/DESIGN_TOKENS.md) — mirrored in src/design-system/tokens.ts for Pixi. */
+@theme {
+  --color-surface-lowest: #080e1d;
+  --color-surface: #0d1322;
+  --color-surface-low: #151b2b;
+  --color-surface-container: #191f2f;
+  --color-surface-high: #242a3a;
+  --color-surface-highest: #2f3445;
+  --color-primary: #b3c5ff;
+  --color-primary-fixed: #dbe1ff;
+  --color-blue: #1e6bff;
+  --color-blue-bright: #2979ff;
+  --color-blue-deep: #003fa5;
+  --color-blue-shadow: #002b75;
+  --color-blue-deepest: #001849;
+  --color-gold: #feb700;
+  --color-gold-light: #ffdea8;
+  --color-gold-mid: #ffba20;
+  --color-gold-shadow: #6b4b00;
+  --color-mint: #4edea3;
+  --color-mint-light: #6ffbbe;
+  --color-mint-deep: #00875d;
+  --color-mint-shadow: #003824;
+  --color-soft-red: #ffb4ab;
+  --color-red-deep: #93000a;
+  --color-on-surface: #dde2f8;
+  --color-on-surface-variant: #c2c6d8;
+  --color-outline-variant: #424655;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --font-display: var(--font-rubik), "Arial Rounded MT Bold", system-ui, sans-serif;
+  --font-body: var(--font-nunito), system-ui, sans-serif;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  --radius-game: 1rem;
+  --radius-game-lg: 2rem;
+  --radius-game-xl: 3rem;
+
+  --shadow-glow-blue: 0 0 24px rgba(30, 107, 255, 0.75);
+  --shadow-glow-gold: 0 0 18px rgba(254, 183, 0, 0.7);
+  --shadow-glow-mint: 0 0 20px rgba(78, 222, 163, 0.8);
+
+  --animate-electric: electricPulse 2s ease-in-out infinite;
+  --animate-bob: webFloat 3s ease-in-out infinite;
+  --animate-pop-in: popIn 0.45s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+
+  @keyframes electricPulse {
+    0%, 100% { box-shadow: 0 0 15px rgba(30, 107, 255, 0.7), inset 0 0 12px rgba(179, 197, 255, 0.5); }
+    50% { box-shadow: 0 0 30px rgba(78, 222, 163, 0.9), inset 0 0 20px rgba(255, 255, 255, 0.8); }
+  }
+  @keyframes webFloat {
+    0%, 100% { transform: translateY(0) scale(1); }
+    50% { transform: translateY(-4px) scale(1.02); }
+  }
+  @keyframes popIn {
+    0% { transform: scale(0.6); opacity: 0; }
+    100% { transform: scale(1); opacity: 1; }
   }
 }
 
+html,
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #080e1d;
+  color: #dde2f8;
+  font-family: var(--font-body);
+}
+
+/* Child game shell: a fixed, non-scrolling, non-selectable surface. */
+.game-shell {
+  position: fixed;
+  inset: 0;
+  height: 100dvh;
+  width: 100vw;
+  overflow: hidden;
+  overscroll-behavior: none;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
+  background: #080e1d;
+}
+.game-shell canvas {
+  display: block;
+  touch-action: none;
+}
+html:has(.game-shell),
+body:has(.game-shell) {
+  overflow: hidden;
+  overscroll-behavior: none;
+  position: fixed;
+  inset: 0;
+}
+
+.safe-top { padding-top: max(env(safe-area-inset-top), 10px); }
+.safe-bottom { padding-bottom: max(env(safe-area-inset-bottom), 10px); }
+.safe-x {
+  padding-left: max(env(safe-area-inset-left), 12px);
+  padding-right: max(env(safe-area-inset-right), 12px);
+}
+
+/* Chunky tactile arcade button (DOM) — matches the mockups' depth + gloss. */
+.btn-chunky {
+  position: relative;
+  border-radius: 1rem;
+  border: 2px solid rgba(255, 255, 255, 0.75);
+  box-shadow: 0 8px 0 0 var(--depth, #002b75), 0 0 24px var(--glow, rgba(30, 107, 255, 0.55));
+  transition: transform 0.12s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.12s ease;
+  overflow: hidden;
+}
+.btn-chunky::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 50% 0;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.35), transparent);
+  pointer-events: none;
+}
+.btn-chunky:active {
+  transform: translateY(6px);
+  box-shadow: 0 2px 0 0 var(--depth, #002b75), 0 0 12px var(--glow, rgba(30, 107, 255, 0.4));
+}
+
+.sr-only-focusable:not(:focus):not(:focus-within) {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  white-space: nowrap !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }
